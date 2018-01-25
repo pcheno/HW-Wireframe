@@ -3,15 +3,53 @@ body {
     text-align: center;
 }
 
-.width960 {
+nav {
 	width: 960px;
-	height: 96px; 	
+	height: 80px; 	
 	background-color: #ebebeb;
 	text-align: center;
 	font-family: sans-serif;
 	color: #777;
 	font-size: 18px;
+	margin-bottom: 20px;
+	padding: 10px 0;
+}
 
+header {
+	width: 960px;
+	height: 80px; 	
+	background-color: #ebebeb;
+	text-align: center;
+	font-family: sans-serif;
+	color: #777;
+	font-size: 18px;
+	margin-bottom: 20px;
+	padding: 10px 0;
+}
+
+div {
+	width: 390px;
+	height: 45px; 	
+	background-color: #ebebeb;
+	text-align: center;
+	font-family: sans-serif;
+	color: #777;
+	font-size: 18px;
+	margin-left: 35px;
+	margin-bottom: 10px;
+	padding: 6px 0;
+}
+
+footer  {
+	width: 960px;
+	height: 80px; 	
+	background-color: #ebebeb;
+	text-align: center;
+	font-family: sans-serif;
+	color: #777;
+	font-size: 18px;
+	margin-top: 240px;
+	padding: 10px 0;
 }
 
 section {
@@ -51,26 +89,3 @@ aside {
 
 }
 
-.jumbotron {
-	background-color: #428bca
-}
-
-.jumbotron h1 {
-	color:white;
-}
-
-p, h1, h4 {
-	font-family: 'Roboto Slab', serif;
-}
-
-#funText {
-	color: black;
-	font-size: 24px;
-	font-family: 'Roboto Slab', serif;
-}
-
-#box {
-	height: 100px;
-	width: 100px;
-	margin:auto;
-}
